@@ -57,5 +57,3 @@ if __name__ == "__main__":
             print(f"- {col}: {non_null} non-null values")
     else:
         print("No results obtained")
-
-# NOTE: If you get 'Could not reach host' or network errors, try commenting out the '--headless' line in import_requests2.py to debug with a visible browser.
