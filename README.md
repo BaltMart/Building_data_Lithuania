@@ -1,3 +1,5 @@
+NOTE: Data in this repository is all publicly available, downloaded either from https://data.gov.lt/datasets/1000/?resource_version=778 or https://maps.planuojustatau.lt/map/sld
+
 This repository features the only codes from my internship at the Bank of Lithuania that I saved. It appears that I have lost the vast majority of the codes I did in the two and a half months I was working at the bank. 
 
 For context of the files existing in the repository, the codes are dealing with obtaining the data for the project, and the data files feature data that was used for one or another purpose during the project, furthermore, it reflects only a point in time and is incomplete.
